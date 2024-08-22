@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anayet-hossain
+- 👋 Hi, I’m Anayet-hossain
 - 👀 I’m interested in Coding, Photography & Gaming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Game Development and Python Programming
